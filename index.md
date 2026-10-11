@@ -13,7 +13,7 @@ This Privacy Policy explains what information the game stores locally, how save 
 ## Summary
 
 - Typekeeper does not require an account or login.
-- Typekeeper does not collect personal information on a FoxForge Studio server.
+- Typekeeper does not collect personal information through normal gameplay. If you voluntarily contact support, FoxForge Studio receives the information you choose to submit.
 - Typekeeper does not use advertising.
 - Typekeeper does not use analytics or cross-app tracking.
 - Typekeeper does not sell player data.
@@ -236,7 +236,109 @@ The game's local records store gameplay results and statistics rather than opera
 
 ---
 
+# Support communications
+
+Support communications are optional and separate from normal Typekeeper gameplay.
+
+Typekeeper does not automatically attach or send your save file, gameplay history, typing input, scores, settings, device files, or other game data when you contact support. You decide what information to include.
+
+## Voluntary support email
+
+If you email **support@foxforgestudio.ai**, FoxForge Studio receives information you voluntarily provide, which may include:
+
+- the email address you send from;
+- your name, if included;
+- the email subject;
+- the contents of your message;
+- message timestamps;
+- attachments you deliberately include; and
+- technical or gameplay information you choose to describe or send.
+
+We use support communications to:
+
+- respond to your request;
+- troubleshoot a problem you report;
+- investigate bugs or save-file issues;
+- maintain reasonable support history;
+- prevent abuse or fraudulent support requests; and
+- comply with applicable legal obligations.
+
+The **support@foxforgestudio.ai** mailbox is hosted through **Google Workspace / Gmail, provided by Google LLC**.
+
+Google therefore processes email routing, delivery, storage, spam and security screening, and related technical information necessary to provide the email service.
+
+Google's independent processing is governed by its applicable terms and privacy policies.
+
+Google Privacy Policy:
+
+https://policies.google.com/privacy
+
+## Website contact form
+
+FoxForge Studio may also provide a website contact form for Typekeeper support.
+
+When enabled, the form may ask you to voluntarily provide information such as:
+
+- your name;
+- your email address;
+- a support topic; and
+- the message or other information you choose to submit.
+
+Contact-form submissions may be delivered to **support@foxforgestudio.ai** so FoxForge Studio can respond from that branded support address.
+
+**As of October 11, 2026, a Typekeeper support contact form is not yet active. No contact-form provider is currently processing Typekeeper support submissions.**
+
+Before a contact form is enabled, this Privacy Policy will be updated to identify the actual form provider used to process and deliver those submissions.
+
+Using a contact form, once available, will be voluntary and will not be required to play Typekeeper.
+
+## Support-message retention
+
+Support emails and future contact-form submissions may be retained while a support request is open and for a reasonable period afterward when needed to:
+
+- continue or follow up on the support conversation;
+- maintain support history;
+- troubleshoot recurring issues;
+- prevent abuse; or
+- meet applicable legal obligations.
+
+FoxForge Studio does not currently promise a fixed automatic deletion period for support communications.
+
+Support messages may remain in Google Workspace / Gmail, and once a contact form is enabled may also be processed for a limited period by the form provider identified in this policy.
+
+## Support-message deletion requests
+
+You may request deletion of support communications that you previously sent to FoxForge Studio by emailing:
+
+**support@foxforgestudio.ai**
+
+Please provide enough information for us to identify the applicable support conversation.
+
+Where reasonably possible, we will delete the identified communication from our active support records, subject to:
+
+- information that must be retained for legal or security reasons;
+- records needed to prevent fraud or abuse; and
+- temporary backup, security, or retention systems controlled by the applicable service provider.
+
+Deleting a support conversation does not affect your locally stored Typekeeper game data.
+
+---
+
 # Network and third parties
+
+## Privacy-policy hosting on GitHub Pages
+
+This Privacy Policy is hosted using **GitHub Pages, operated by GitHub, Inc.**
+
+Visiting this privacy-policy webpage is separate from using the Typekeeper game. GitHub states that GitHub Pages logs visitors' IP addresses for security purposes and may process ordinary website-request information according to GitHub's privacy policies.
+
+The Typekeeper app does not send your gameplay progress, typing input, save file, scores, or settings to GitHub Pages.
+
+GitHub Privacy Statement:
+
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+---
 
 ## 10) No gameplay-data server
 
@@ -267,11 +369,13 @@ https://www.apple.com/legal/privacy/
 
 ## 12) Same or equal protection
 
-Typekeeper does not currently share player data with third-party analytics, advertising, AI, or cloud-processing providers.
+Typekeeper gameplay does not currently share player data with third-party analytics, advertising, AI, or cloud-processing providers.
 
-If a future version introduces a third party that processes user data for Typekeeper, that provider will be required to provide the **same or equal protection of user data** as stated in this policy and as required by Apple's App Review Guidelines.
+Voluntary support communications are processed through **Google Workspace / Gmail** as described in the Support communications section. If a website contact form is enabled, the actual form provider will be identified in this Privacy Policy before the form is used for Typekeeper support.
 
-This Privacy Policy will be updated if Typekeeper's data practices materially change.
+Any third party that processes user data for Typekeeper or Typekeeper support **provides the same or equal protection of user data** as stated in this policy and as required by Apple's App Review Guidelines.
+
+This Privacy Policy will be updated if Typekeeper's data practices or support providers materially change.
 
 ---
 
@@ -357,4 +461,4 @@ For privacy questions regarding Typekeeper: Path to the Crown, contact:
 
 **FoxForge Studio**
 
-**Email:** Simon.Yam227@gmail.com
+**Email:** [support@foxforgestudio.ai](mailto:support@foxforgestudio.ai)
