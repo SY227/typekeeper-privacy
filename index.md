@@ -198,7 +198,7 @@ Once exported, you control where those files are stored.
 
 # Information Typekeeper does not collect
 
-The current version of Typekeeper does not collect through the app:
+During normal gameplay, Typekeeper does not collect the personal information listed below. Information you voluntarily provide when contacting support is handled as described in the Support communications section.
 
 - your name;
 - email address;
@@ -273,28 +273,9 @@ Google Privacy Policy:
 
 https://policies.google.com/privacy
 
-## Website contact form
-
-FoxForge Studio may also provide a website contact form for Typekeeper support.
-
-When enabled, the form may ask you to voluntarily provide information such as:
-
-- your name;
-- your email address;
-- a support topic; and
-- the message or other information you choose to submit.
-
-Contact-form submissions may be delivered to **support@foxforgestudio.ai** so FoxForge Studio can respond from that branded support address.
-
-**As of October 11, 2026, a Typekeeper support contact form is not yet active. No contact-form provider is currently processing Typekeeper support submissions.**
-
-Before a contact form is enabled, this Privacy Policy will be updated to identify the actual form provider used to process and deliver those submissions.
-
-Using a contact form, once available, will be voluntary and will not be required to play Typekeeper.
-
 ## Support-message retention
 
-Support emails and future contact-form submissions may be retained while a support request is open and for a reasonable period afterward when needed to:
+Support emails may be retained while a support request is open and for a reasonable period afterward when needed to:
 
 - continue or follow up on the support conversation;
 - maintain support history;
@@ -304,7 +285,7 @@ Support emails and future contact-form submissions may be retained while a suppo
 
 FoxForge Studio does not currently promise a fixed automatic deletion period for support communications.
 
-Support messages may remain in Google Workspace / Gmail, and once a contact form is enabled may also be processed for a limited period by the form provider identified in this policy.
+Support messages may remain in Google Workspace / Gmail according to Google's applicable retention, backup, security, and service policies.
 
 ## Support-message deletion requests
 
@@ -371,7 +352,7 @@ https://www.apple.com/legal/privacy/
 
 Typekeeper gameplay does not currently share player data with third-party analytics, advertising, AI, or cloud-processing providers.
 
-Voluntary support communications are processed through **Google Workspace / Gmail** as described in the Support communications section. If a website contact form is enabled, the actual form provider will be identified in this Privacy Policy before the form is used for Typekeeper support.
+Voluntary support communications are processed through **Google Workspace / Gmail** as described in the Support communications section.
 
 Any third party that processes user data for Typekeeper or Typekeeper support **provides the same or equal protection of user data** as stated in this policy and as required by Apple's App Review Guidelines.
 
