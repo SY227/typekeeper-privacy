@@ -120,6 +120,12 @@ They are not uploaded to FoxForge Studio.
 
 ---
 
+## Screenshot storage
+
+Screenshots you take are stored locally in Typekeeper’s screenshot gallery. They are not automatically uploaded or sent to FoxForge Studio. You can delete them in the gallery; exported copies remain wherever you save or share them.
+
+---
+
 ## 5) Embedded game view
 
 Typekeeper uses Apple's WebKit technology to render the bundled game interface.
